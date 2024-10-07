@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://dotojodubado.pages.dev/sitemap.xml
